@@ -1,0 +1,2 @@
+1/02/2022
+First lab visit by Shivang and Dhruv. Wrote helloworld for arduino. Tested sensor interacing. Data sent by the sensor is in cm.
